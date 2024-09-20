@@ -1,0 +1,30 @@
+body {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  padding: 20px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 20px auto;
+  background-color: #f9b234;
+}
+
+.box1 {
+  background-color: #e74c3c;
+}
+
+.box2 {
+  background-color: #3ecd5e;
+}
+
+.box3 {
+  background-color: #e44002;
+}
